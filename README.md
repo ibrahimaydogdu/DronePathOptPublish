@@ -51,5 +51,6 @@ python -m src.drone3d.compare_meta_small
 ---
 
 ## 4. License and Peer Review Notice
-This software is released under the [MIT License](LICENSE).
-For double-blind peer review, repository and author metadata can be viewed anonymously via [Anonymous GitHub](https://anonymous.4open.science/).
+This software is released under the [MIT License](LICENSE).  
+For double-blind peer review, repository and author metadata can be viewed anonymously via:  
+**Anonymous GitHub:** [https://anonymous.4open.science/r/DronePathOptPublish-EDB4/](https://anonymous.4open.science/r/DronePathOptPublish-EDB4/)
