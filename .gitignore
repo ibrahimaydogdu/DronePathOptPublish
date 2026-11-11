@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+Thumbs.db
+desktop.ini
+*.tmp
